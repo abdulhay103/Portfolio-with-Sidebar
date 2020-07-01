@@ -164,7 +164,7 @@ header #header_btn:hover {
 }
 
 .contentBar #home .banner {
-  background-color: #2a54698a;
+  background-color: #493d74af;
   min-height: 100vh;
   margin: 5px;
   position: relative;
@@ -185,6 +185,7 @@ header #header_btn:hover {
 }
 .contentBar #home .banner .text_banner .intro {
   float: right;
+  display: block;
 }
 
 .contentBar #home .star {
